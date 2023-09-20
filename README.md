@@ -2,13 +2,13 @@
   * Solution of All 30_Days_of_Pandas Problems Challeng [leetcode](https://leetcode.com/studyplan/30-days-of-pandas/)
 ## Data Filtering
 
-  ✅ Big Countries
+  ✅ [Big Countries](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/big_countries.py)
   
-  ✅ Recyclable and Low Fat Products
+  ✅ [Recyclable and Low Fat Products](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/recyclable_and_low_fat_products.py)
   
-  ✅ Customers Who Never Order
+  ✅ [Customers Who Never Order](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Customers%20Who%20Never%20Order.py)
   
-  ✅ Article Views I
+  ✅ [Article Views I](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/article_views_i.py)
 
 ## String Methods
 
