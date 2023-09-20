@@ -1,4 +1,5 @@
 # 30_Days_of_Pandas_Problem_Solving
+  * Solution of All 30_Days_of_Pandas Problems Challeng [leetcode](https://leetcode.com/studyplan/30-days-of-pandas/)
 ## Data Filtering
 
   ✅ Big Countries
