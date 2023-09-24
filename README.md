@@ -12,15 +12,15 @@
 
 ## String Methods
 
-  ✅ Invalid Tweets
+  ✅ [Invalid Tweets](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Invalid%20Tweets.py)
 
-  ✅ Calculate Special Bonus
+  ✅ [Calculate Special Bonus](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Calculate%20Special%20Bonus.py)
 
-  ✅ Fix Names in a Table
+  ✅ [Fix Names in a Table](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Fix%20Names%20in%20a%20Table.py)
 
-  ✅ Find Users With Valid E-Mails
+  ✅ [Find Users With Valid E-Mails](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Find%20Users%20With%20Valid%20E-Mails.py)
 
-  ✅ Patients With a Condition
+  ✅ [Patients With a Condition](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Patients%20With%20a%20Condition.py)
 
 ## Data Manipulation
 
