@@ -24,17 +24,17 @@
 
 ## Data Manipulation
 
-  ✅ Nth Highest Salary
+  ✅ [Nth Highest Salary](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Nth%20Highest%20Salary.py)
   
-  ✅ Second Highest Salary
+  ✅ [Second Highest Salary](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Second%20Highest%20Salary.py)
 
-  ✅ Department Highest Salary
+  ✅ [Department Highest Salary](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Department%20Highest%20Salary.py)
 
-  ✅ Rank Scores
+  ✅ [Rank Scores](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Rank%20Scores.py)
 
-  ✅ Delete Duplicate Emails
+  ✅ [Delete Duplicate Emails](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Delete%20Duplicate%20Emails.py)
 
-  ✅ Rearrange Products Table
+  ✅ [Rearrange Products Table](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Rearrange%20Products%20Table.py)
 
 ## Statistics
 
