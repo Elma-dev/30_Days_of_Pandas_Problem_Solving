@@ -38,7 +38,7 @@
 
 ## Statistics
 
-  ✅ Count Salary Categories
+  ✅ [Count Salary Categories](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Count%20Salary%20Categories.py)
 
 ## Data Aggregation
   ✅ Find Total Time Spent by Each Employee
