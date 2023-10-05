@@ -41,19 +41,19 @@
   ✅ [Count Salary Categories](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Count%20Salary%20Categories.py)
 
 ## Data Aggregation
-  ✅ Find Total Time Spent by Each Employee
+  ✅ [Find Total Time Spent by Each Employee](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Find%20Total%20Time%20Spent%20by%20Each%20Employee.py)
   
-  ✅ Game Play Analysis I
+  ✅ [Game Play Analysis I](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Game%20Play%20Analysis%20I.py)
 
-  ✅ Number of Unique Subjects Taught by Each Teacher
+  ✅ [Number of Unique Subjects Taught by Each Teacher](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.py)
 
-  ✅ Classes More Than 5 Students
+  ✅ [Classes More Than 5 Students]()
 
-  ✅ Customer Placing the Largest Number of Orders
+  ✅ [Customer Placing the Largest Number of Orders](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Customer%20Placing%20the%20Largest%20Number%20of%20Orders.py)
 
-  ✅ Group Sold Products By The Date
+  ✅ [Group Sold Products By The Date](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Group%20Sold%20Products%20By%20The%20Date.py)
 
-  ✅ Daily Leads and Partners
+  ✅ [Daily Leads and Partners](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Daily%20Leads%20and%20Partners.py)
 
 ## Data Integration
   ✅ Actors and Directors Who Cooperated At Least Three Times
