@@ -56,14 +56,14 @@
   ✅ [Daily Leads and Partners](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Daily%20Leads%20and%20Partners.py)
 
 ## Data Integration
-  ✅ Actors and Directors Who Cooperated At Least Three Times
+  ✅ [Actors and Directors Who Cooperated At Least Three Times](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.py)
 
-  ✅ Replace Employee ID With The Unique Identifier
+  ✅ [Replace Employee ID With The Unique Identifier](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.py)
   
-  ✅ Students and Examinations
+  ✅ [Students and Examinations](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Students%20and%20Examinations.py)
 
-  ✅ Managers with at Least 5 Direct Reports
+  ✅ [Managers with at Least 5 Direct Reports](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Managers%20with%20at%20Least%205%20Direct%20Reports.py)
 
-  ✅ Sales Person
+  ✅ [Sales Person](https://github.com/Elma-dev/30_Days_of_Pandas_Problem_Solving/blob/main/Sales%20Person.py)
 
 
